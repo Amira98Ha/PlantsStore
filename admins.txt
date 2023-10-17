@@ -1,0 +1,8 @@
+fname=Amira
+lname=alharbi
+email=admin@gmail.com
+numberPhone=0987654321
+password=admin
+address=KSA
+city=Reyadh
+---------------------------

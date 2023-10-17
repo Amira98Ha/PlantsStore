@@ -1,0 +1,37 @@
+	name=Bugatti Divo
+	price=200
+	type=Sport Cars
+-----------------------
+	name=Ferrari Daytona
+	price=350
+	type=Sport Cars
+-----------------------
+	name=Lamborghini Countach
+	price=250
+	type=Sport Cars
+-----------------------
+	name=Ford Model T(1908)
+	price=150
+	type=Classic Cars
+-----------------------
+	name=Rolls-Royce Phantom(1925)
+	price=400
+	type=Classic Cars
+-----------------------
+	name=Puncture Repair Kit
+	price=500.0
+	type=Accessories
+-----------------------
+	name=Dash Camera
+	price=900.0
+	type=Accessories
+-----------------------
+	name=Seat Covers and Floor Mats
+	price=1000.0
+	type=Accessories
+-----------------------
+	name=gloves
+	price=200.0
+	type=Accessories
+-----------------------
+
